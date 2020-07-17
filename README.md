@@ -1,6 +1,5 @@
-# Heart-Disease-Prediction-through-Decision-Tree
-This repository uses Decision Tree Algorithm of Machine Learning to predict Heart Disease.
-
+# Heart-Disease-Prediction-through-Decision-Tree-and-Random-Forest-Classifier
+This repository uses Decision Tree Algorithm and Random Forest Algorithm of Machine Learning to predict Heart Disease.
 The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no/less chance of heart attack and 1 = more chance of heart attack.
 
 Attribute Information - 
